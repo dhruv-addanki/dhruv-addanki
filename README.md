@@ -1,7 +1,7 @@
 <!-- Profile README for dhruv-addanki -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&center=true&vCenter=true&width=1000&lines=founder+%2F+full-stack+engineer;building+Scanis+AI;shipping+fast+%7C+learning+faster;AI+%2F+ML+%2B+mobile+%2B+product" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&center=true&vCenter=true&width=1000&color=FFD700&lines=founder+%2F+full-stack+engineer;building+Scanis+AI;shipping+fast+%7C+learning+faster;AI+%2F+ML+%2B+mobile+%2B+product" alt="Typing SVG" />
 </a>
 
 > "excellence is the capacity to take pain."  
