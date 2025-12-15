@@ -34,7 +34,7 @@ Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered pr
 - **Crossword AI Engine** — constraint solving + heuristics
 - **Neural Net from Scratch** — NumPy backprop / training loops
   
-## 🧰 Tech stack
+## 💻 Tech stack
 **Languages**
   
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
