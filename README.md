@@ -59,3 +59,9 @@ Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered pr
 ## 📊 GitHub Snapshot
 
 ![](./profile-summary-card-output/great_gatsby/0-profile-details.svg)
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/dhruv-addanki/dhruv-addanki/main/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+</p>
