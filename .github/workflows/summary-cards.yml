@@ -1,17 +1,27 @@
 name: Profile summary cards
 
 on:
-  schedule:
-    - cron: "0 1 * * *"
   workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # daily
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: dhruv-addanki
-          THEME: github
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: main
+          UTC_OFFSET: -5
+          AUTO_PUSH: true
