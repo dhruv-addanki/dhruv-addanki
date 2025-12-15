@@ -18,7 +18,7 @@
 ## 👋 Hey — I’m Dhruv
 Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered products end-to-end.
 
-- 🧠 Founder & Lead Engineer @ **Scanis AI** (3D body scanning + GPT evaluations + adaptive training)
+- 🧠 Founder & Lead Engineer @ **Scanis AI** (3D body scanning + AI evaluations + adaptive training)
 - 🎓 CS @ **Virginia Tech** (Expected 2026)
 - ⚙️ I love: **mobile-first UX**, applied AI, fast iteration, and building in public
   
