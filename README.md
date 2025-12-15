@@ -4,8 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=34&center=true&vCenter=true&width=1000&color=EFBF04&lines=founder+%2F+full-stack+engineer;building+Scanis+AI;shipping+fast+%7C+learning+faster;AI+%2F+ML+%2B+mobile+%2B+product" alt="Typing SVG" />
 </a>
 
-> "excellence is the capacity to take pain."  
-— Isadore Sharp
+> "Brilliant thinking is rare, but courage is in even shorter supply."  
+— Peter Thiel
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-addanki&label=Profile%20views&color=EFBF04&style=flat" />
