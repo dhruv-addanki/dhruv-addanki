@@ -7,8 +7,12 @@
 > "excellence is the capacity to take pain."  
 — Isadore Sharp
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruv-addanki&label=Profile%20views&style=flat" alt="profile views" />
+</p> -->
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20Views-—-EFBF04?style=flat&logo=github" alt="profile views" />
 </p>
 
 ## 👋 Hey — I’m Dhruv
