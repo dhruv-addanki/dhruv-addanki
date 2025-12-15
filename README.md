@@ -51,3 +51,12 @@ Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered pr
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.i)
+
+## 📊 GitHub Activity
+
+![](./profile-summary-card-output/great_gatsby/0-profile-details.svg)
+![](./profile-summary-card-output/great_gatsby/1-repos-per-language.svg)
+![](./profile-summary-card-output/great_gatsby/2-most-commit-language.svg)
+![](./profile-summary-card-output/great_gatsby/3-stats.svg)
+![](./profile-summary-card-output/great_gatsby/4-productive-time.svg)
+
