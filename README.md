@@ -14,21 +14,25 @@
 ## 👋 Hey — I’m Dhruv
 Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered products end-to-end.
 
+
 - 🧠 Founder & Lead Engineer @ **Scanis AI** (3D body scanning + GPT evaluations + adaptive training)
 - 🎓 CS @ **Virginia Tech** (Expected 2026)
 - ⚙️ I love: **mobile-first UX**, applied AI, fast iteration, and building in public
+  
 
 ## 🚀 What I’m building
 **Scanis AI** — a digital fitness trainer powered by 3D body scans and AI.
 - iOS app in Swift/SwiftUI + Firebase backend
 - 3D scanning → structured body data → AI evaluation + multi-week workout plans
 - Shipping + iterating with real users (TestFlight + build-in-public)
+  
 
 ## 🧩 Featured projects
 - **Duolingo for Learning AI** — gamified AI learning app (React Native + Expo + Supabase)
 - **Nanochat LLM Inference Service** — FastAPI + streaming completions + Dockerized deployment
 - **Crossword AI Engine** — constraint solving + heuristics
 - **Neural Net from Scratch** — NumPy backprop / training loops
+  
 
 ## 🧰 Tech stack
 **Languages**
@@ -39,6 +43,7 @@ Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered pr
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge)
 
+
 **Frameworks / Platforms**
 
 ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -47,16 +52,13 @@ Software Engineer (Founder/Architect/Designer/Full-Stack) building AI-powered pr
 ![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
 
+
 **AI / ML**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.i)
 
-## 📊 GitHub Activity
+
+## 📊 GitHub Snapshot
 
 ![](./profile-summary-card-output/great_gatsby/0-profile-details.svg)
-![](./profile-summary-card-output/great_gatsby/1-repos-per-language.svg)
-![](./profile-summary-card-output/great_gatsby/2-most-commit-language.svg)
-![](./profile-summary-card-output/great_gatsby/3-stats.svg)
-![](./profile-summary-card-output/great_gatsby/4-productive-time.svg)
-
