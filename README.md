@@ -13,11 +13,11 @@
 
 ## 👋 Hey — I’m Dhruv
 
-I build AI-native products end-to-end: mobile apps, agent backends, context systems, and real-world workflows that actually ship.
+I’m building around one thesis: AI becomes useful when it understands real human context and turns it into measurable action.
 
-- 🧠 Founder & Lead Engineer @ **Scanis** — AI fitness guidance from 3D body scans
-- 🎓 CS @ **Virginia Tech** — expected 2026
-- ⚙️ Focused on **mobile-first UX**, applied AI, context-aware agents, and fast product iteration
+That shows up in **Scanis**, where I’m turning 3D body scans into fitness progress people can actually track; in **SuperAgent**, where WhatsApp becomes a command center for Gmail, Calendar, Drive, and tasks; and in my **Context Graph** work, where messy conversations become durable memory for agents.
+
+I’m a CS student at **Virginia Tech**, founder of **Scanis**, and builder across Swift, TypeScript, Python, AI systems, and product. I’ve also sprinted from concept to MVP through **The Residency: Delta**, grown a fitness/content brand to roughly **5k followers and 1M views**, and I’m currently applying AI to fraud-focused workflows at the **U.S. Treasury**.
 
 ## 🚀 Current focus
 
