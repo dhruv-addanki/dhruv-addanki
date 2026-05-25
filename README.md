@@ -13,11 +13,10 @@
 
 ## 👋 Hey — I’m Dhruv
 
-I build AI-native products end-to-end: mobile apps, agent backends, context systems, and real-world workflows that actually ship.
-
-- 🧠 Founder & Lead Engineer @ **Scanis** — AI fitness guidance from 3D body scans
-- 🎓 CS @ **Virginia Tech** — expected 2026
-- ⚙️ Focused on **mobile-first UX**, applied AI, context-aware agents, and fast product iteration
+✧ Building Scanis: 3D Body Scanning x AI to make fitness progress measurable + actionable
+✧ Full-Stack & AI/ML Engineer - React, Swift, Python, SQL/NoSQL, LLMs, OpenAI, RAG/MCP, etc.
+✧ Built through "The Residency: Delta" Program (backed by Sam Altman) - sprinted from concept → MVP
+✧ Building my personal brand, IG: @dhruv.addanki → (~5k followers, ~1M Views)
 
 ## 🚀 Current focus
 
