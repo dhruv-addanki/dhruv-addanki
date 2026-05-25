@@ -13,9 +13,9 @@
 
 ## 👋 Hey — I’m Dhruv
 
-✧ Building Scanis: 3D Body Scanning x AI to make fitness progress measurable + actionable
-✧ Full-Stack & AI/ML Engineer - React, Swift, Python, SQL/NoSQL, LLMs, OpenAI, RAG/MCP, etc.
-✧ Built through "The Residency: Delta" Program (backed by Sam Altman) - sprinted from concept → MVP
+✧ Building Scanis: 3D Body Scanning x AI to make fitness progress measurable + actionable \n
+✧ Full-Stack & AI/ML Engineer - React, Swift, Python, SQL/NoSQL, LLMs, OpenAI, RAG/MCP, etc. \n
+✧ Built through "The Residency: Delta" Program (backed by Sam Altman) - sprinted from concept → MVP \n
 ✧ Building my personal brand, IG: @dhruv.addanki → (~5k followers, ~1M Views)
 
 ## 🚀 Current focus
