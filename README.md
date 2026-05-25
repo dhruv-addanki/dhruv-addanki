@@ -13,39 +13,39 @@
 
 ## 👋 Hey — I’m Dhruv
 
-✧ Building Scanis: 3D Body Scanning x AI to make fitness progress measurable + actionable \n
-✧ Full-Stack & AI/ML Engineer - React, Swift, Python, SQL/NoSQL, LLMs, OpenAI, RAG/MCP, etc. \n
-✧ Built through "The Residency: Delta" Program (backed by Sam Altman) - sprinted from concept → MVP \n
+✧ Building Scanis: 3D Body Scanning x AI to make fitness progress measurable + actionable<br>
+✧ Full-Stack & AI/ML Engineer - React, Swift, Python, SQL/NoSQL, LLMs, OpenAI, RAG/MCP, etc.<br>
+✧ Built through "The Residency: Delta" Program (backed by Sam Altman) - sprinted from concept → MVP<br>
 ✧ Building my personal brand, IG: @dhruv.addanki → (~5k followers, ~1M Views)
 
 ## 🚀 Current focus
 
 **Scanis** — an AI fitness platform built around 3D body scanning, structured body data, adaptive training, and real user feedback.
 
-- SwiftUI iOS app with Firebase-backed auth, data, and storage flows
-- Scan-to-insight pipeline: body capture → structured evaluation → personalized workout plans
-- Product loop across user interviews, waitlist, TestFlight-style iteration, and shipping infrastructure
+✧ SwiftUI iOS app with Firebase-backed auth, data, and storage flows<br>
+✧ Scan-to-insight pipeline: body capture → structured evaluation → personalized workout plans<br>
+✧ Product loop across user interviews, waitlist, TestFlight-style iteration, and shipping infrastructure
 
 **SuperAgent** — a WhatsApp-first personal AI assistant for actually getting work done.
 
-- Connects Gmail, Google Calendar, Google Drive, and Asana behind deterministic backend tools
-- Supports voice input, daily briefings, approval-gated writes, audit logs, and reply-aware task actions
-- Built as a production-minded Node/TypeScript backend with Prisma, Redis, queues, and OAuth integrations
+✧ Connects Gmail, Google Calendar, Google Drive, and Asana behind deterministic backend tools<br>
+✧ Supports voice input, daily briefings, approval-gated writes, audit logs, and reply-aware task actions<br>
+✧ Built as a production-minded Node/TypeScript backend with Prisma, Redis, queues, and OAuth integrations
 
 **Personal Context Graph** — an Obsidian plugin that turns ChatGPT exports into durable, human-readable memory.
 
-- Imports conversation history into typed Markdown nodes for projects, people, preferences, decisions, and artifacts
-- Uses conservative, evidence-backed merging so the graph gets more connected instead of noisier
-- Generates an LLM-ready context pack while keeping the source notes readable in a normal vault
+✧ Imports conversation history into typed Markdown nodes for projects, people, preferences, decisions, and artifacts<br>
+✧ Uses conservative, evidence-backed merging so the graph gets more connected instead of noisier<br>
+✧ Generates an LLM-ready context pack while keeping the source notes readable in a normal vault
 
 ## 🧪 Selected experiments
 
-- **CourtVision** — SwiftUI basketball session tracker with calibration, camera scaffolding, CV pipeline boundaries, and AI feedback hooks
-- **AI Reflection Bracelet** — voice-first mental wellness wearable concept with FastAPI, Expo, shared types, firmware scaffolding, and mocked local analysis
-- **SimuTrade** — full-stack paper trading simulator with Django REST, Celery jobs, PostgreSQL, Redis, Docker, and a Next.js dashboard
-- **PM4 Food Tracker** — AI-assisted food scanning, macro logging, browser UI, API routes, and Expo mobile camera capture
-- **JobSwipe AI** — SwiftUI job discovery app with swipe gestures, SwiftData persistence, profile-driven matching, and live/mock feed switching
-- **nanochat / nanoGPT services** — lightweight LLM service layers, streaming APIs, and deployment-oriented model experimentation
+✧ **CourtVision** — SwiftUI basketball session tracker with calibration, camera scaffolding, CV pipeline boundaries, and AI feedback hooks<br>
+✧ **AI Reflection Bracelet** — voice-first mental wellness wearable concept with FastAPI, Expo, shared types, firmware scaffolding, and mocked local analysis<br>
+✧ **SimuTrade** — full-stack paper trading simulator with Django REST, Celery jobs, PostgreSQL, Redis, Docker, and a Next.js dashboard<br>
+✧ **PM4 Food Tracker** — AI-assisted food scanning, macro logging, browser UI, API routes, and Expo mobile camera capture<br>
+✧ **JobSwipe AI** — SwiftUI job discovery app with swipe gestures, SwiftData persistence, profile-driven matching, and live/mock feed switching<br>
+✧ **nanochat / nanoGPT services** — lightweight LLM service layers, streaming APIs, and deployment-oriented model experimentation
 
 ## 🛠️ Stack I reach for
 
