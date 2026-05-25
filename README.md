@@ -47,15 +47,10 @@
 ✧ **JobSwipe AI:** SwiftUI job discovery app with swipe gestures, SwiftData, matching, and live/mock feeds<br>
 ✧ **nanochat / nanoGPT services:** lightweight LLM APIs, streaming, and deployment-oriented model experiments
 
-## 🛠️ Stack I reach for
+## ✧ More about me
 
-**Product surfaces:** SwiftUI, React Native, Expo, Next.js, Tailwind, Obsidian plugins, WhatsApp Cloud API
-
-**Backends:** TypeScript, Node.js, Fastify, Python, FastAPI, Django, PostgreSQL, Prisma, Redis, Firebase, Supabase
-
-**AI systems:** OpenAI APIs, embeddings, structured extraction, retrieval/context graphs, computer vision pipelines, PyTorch, Hugging Face
-
-**Shipping:** Docker, Vercel, GitHub Actions, mobile testing, OAuth, audit logs, and approval-gated workflows
+✧ 5 years of fitness training: ~50 lbs muscle gain and ~1100 lbs squat + bench + deadlift total<br>
+✧ Traveled to 21 countries and 5 continents, about 0.6x to the moon in flight distance
 
 ## 📊 GitHub Snapshot
 
